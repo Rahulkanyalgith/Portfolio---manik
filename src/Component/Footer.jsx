@@ -1,6 +1,6 @@
 import React from 'react'
 import { HashLink } from '@xzar90/react-router-hash-link';
-import { FiTwitter } from "react-icons/fi";
+import { FiInstagram } from "react-icons/fi";
 import { NavLink } from 'react-router-dom';
 import { LuGithub } from "react-icons/lu";
 import { FiLinkedin } from "react-icons/fi";
@@ -31,14 +31,14 @@ const Footer = () => {
                     </div> 
 
                     <div className='footer_socials flex items-center md:items-start md:justify-end'>
-                        <NavLink to='https://github.com/Amitkarun-singh' target='_blank' className='text-[1.25rem] mr-[1.5rem] text-white hover:text-[#ce9dfb]'>
+                        <NavLink to='https://github.com/mattoomanik9' target='_blank' className='text-[1.25rem] mr-[1.5rem] text-white hover:text-[#ce9dfb]'>
                             <LuGithub />
                         </NavLink>
-                        <NavLink to='https://www.linkedin.com/in/amitkumar-singh17/' target='_blank' className='text-[1.25rem] mr-[1.5rem] text-white hover:text-[#ce9dfb]'>
+                        <NavLink to='https://www.linkedin.com/in/manik-mattoo-459539217/' target='_blank' className='text-[1.25rem] mr-[1.5rem] text-white hover:text-[#ce9dfb]'>
                             <FiLinkedin />
                         </NavLink>
-                        <NavLink to='https://twitter.com/amitkarun4559' target='_blank' className='text-[1.25rem] mr-[1.5rem] text-white hover:text-[#ce9dfb]'>
-                            <FiTwitter />
+                        <NavLink to='https://www.instagram.com/mattoomanik9/' target='_blank' className='text-[1.25rem] mr-[1.5rem] text-white hover:text-[#ce9dfb]'>
+                            <FiInstagram />
                         </NavLink>
                     </div>
                 </div>

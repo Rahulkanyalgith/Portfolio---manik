@@ -1,6 +1,6 @@
 import React from 'react'
 import { ReactTyped } from "react-typed";
-import { FiTwitter } from "react-icons/fi";
+import { FiInstagram } from "react-icons/fi";
 import { LuGithub } from "react-icons/lu";
 import { FiLinkedin } from "react-icons/fi";
 import { NavLink } from 'react-router-dom';
@@ -16,7 +16,7 @@ const Home = () => {
             <div className='Home_container md:gap-y-[5rem] max-w-[768px] md:mx-auto mx-[1.5rem] grid gap-[1.5rem]'>
                 <div className="Home_content md:pt-[5.5rem] md:gap-x-[2rem] sm:grid-cols-[max-content,1fr,1fr] grid grid-cols-[0.5fr,3fr] gap-[1.5rem] pt-[3.5rem] items-center">
                     <div className="home_social grid grid-cols-[max-content] gap-y-[1rem] lg:transform lg:-translate-x-[6rem]">
-                        <NavLink to='https://github.com/Amitkarun-singh' target='_blank' className='text-[1.25rem] text-[#972ef9] hover:text-[#7221be]'>
+                        <NavLink to='https://github.com/mattoomanik9' target='_blank' className='text-[1.25rem] text-[#972ef9] hover:text-[#7221be]'>
                             <LuGithub />
                         </NavLink>
 
@@ -24,8 +24,8 @@ const Home = () => {
                             <FiLinkedin />
                         </NavLink>
 
-                        <NavLink to='https://twitter.com/amitkarun4559' target='_blank' className='text-[1.25rem] text-[#972ef9] hover:text-[#7221be]'>
-                            <FiTwitter />
+                        <NavLink to='https://www.instagram.com/mattoomanik9/' target='_blank' className='text-[1.25rem] text-[#972ef9] hover:text-[#7221be]'>
+                            <FiInstagram />
                         </NavLink>
                     </div>
 
