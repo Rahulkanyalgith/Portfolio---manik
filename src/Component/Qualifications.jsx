@@ -44,22 +44,22 @@ const Qualifications = () => {
                             </div>
 
                             <div>
-                                <h3 className="qualification_title text-[0.938rem] font-medium] dark:text-white">Senior Secondary School</h3>
-                                <span className="qualification_subtitle inline-block text-[.813rem] mb-[1rem] dark:text-[#bcbac4]">Tarapur Vidya Mandir & Jr. College</span>
+                                <h3 className="qualification_title text-[0.938rem] font-medium] dark:text-white">Diploma in Electronics and comunicationSenior Secondary School</h3>
+                                <span className="qualification_subtitle inline-block text-[.813rem] mb-[1rem] dark:text-[#bcbac4]">Pusa institute of technology, new delhi</span>
                                 <div className="qualification_calender flex items-center text-[.75rem] text-[#a19fad] gap-1">
                                     <LuCalendarDays />
-                                    2019 - 2021
+                                    Jun 2020 - Jun 2023
                                 </div>
                             </div>
                         </div>
                         {/* Qualification 3 */}
                         <div className="qualification_data grid grid-cols-[1fr,max-content,1fr] gap-x-[1.5rem]">
                             <div>
-                                <h3 className="qualification_title text-[0.938rem] font-medium] dark:text-white">Secondary School</h3>
-                                <span className="qualification_subtitle inline-block text-[.813rem] mb-[1rem] dark:text-[#bcbac4]">Tarapur Vidya Mandir & Jr. College</span>
-                                <div className="qualification_calender flex items-center text-[.75rem] text-[#a19fad] gap-1">
+                                <h3 className="qualification_title text-[0.938rem] font-medium] dark:text-white">Passed 10th from CBSE</h3>
+                                <span className="qualification_subtitle inline-block text-[.813rem] mb-[1rem] dark:text-[#bcbac4]">Vishwa Bharati Public School dwarka new delhi, New delhi</span>
+                                <div className="qualification_calender flex items-center text-[.75rem] text-[#a19fad] gap-1">. College
                                     <LuCalendarDays />
-                                    2009 - 2019
+                                    Apr 2019 - Apr 2020
                                 </div>
                             </div>
 

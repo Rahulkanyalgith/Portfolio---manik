@@ -18,7 +18,7 @@ export const WORK_EXPERIENCE = [
     {
       title: "Electronics Hive",
       description: "Internship Trainee",
-      tech: "Embedded Systems , PCB Designing",
+      tech: "Embedded Systems, PCB Designing – Proficient in embedded solutions, microcontroller integration, schematic design, PCB routing, and prototyping for reliable hardware.",
       duration: "September 2024 - Novemeber 2024",
       company: "Electronics Hive",
       URL: "/Scyscanner.pdf",

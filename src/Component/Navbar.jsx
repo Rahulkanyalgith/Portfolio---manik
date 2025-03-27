@@ -47,13 +47,13 @@ const Navbar = ({modeHandler, theme}) => {
                                 </HashLink>
                             </li>
 
-                            <li className="nav_item">
+                            {/* <li className="nav_item">
                                 <HashLink to="#Skills" smooth 
                                 className='flex flex-col items-center text-[0.875rem] text-[#242329] dark:text-white font-medium hover:text-[#9234ea] dark:hover:text-[#9234ea] cursor-pointer' onClick={changeToggleHandler}>
                                     <FaRegFileAlt className='text-[1.2rem] md:hidden'/>
                                     Skills
                                 </HashLink>
-                            </li>
+                            </li> */}
 
                             <li className="nav_item">
                                 <HashLink to="#Qualifications" smooth className='flex flex-col items-center text-[0.875rem] text-[#242329] dark:text-white font-medium hover:text-[#9234ea] dark:hover:text-[#9234ea] cursor-pointer' onClick={changeToggleHandler}>
