@@ -8,12 +8,13 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "@xzar90/react-router-hash-link": "^6.0.4",
+    "owasp-dependency-check": "^0.0.24",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
     "react-icons": "^4.12.0",
     "react-redux": "^9.0.4",
     "react-router-dom": "^6.21.1",
-    "react-scripts": "^3.0.1",
+    "react-scripts": "^5.0.1",
     "react-typed": "^2.0.12",
     "styled-components": "^6.1.8",
     "swiper": "^11.0.5",
@@ -25,6 +26,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  
   "eslintConfig": {
     "extends": [
       "react-app",
@@ -46,4 +48,5 @@
   "devDependencies": {
     "tailwindcss": "^3.4.1"
   }
+  
 }
